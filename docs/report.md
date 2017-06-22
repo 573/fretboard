@@ -22,3 +22,11 @@ I have more experience in D than in the other languages, so this one was impleme
 The best part of D, for me, is the wide variety of language features given to me to solve a problem. This makes me more flexible as a programmer because I don't need to redefine the problem to please the language. 
 
 The worst part of D, for me, is the verbosity of unit tests. Unlike go, a unit test isn't as simple as `go test`. I need to encapsulate some asserts in a `unittest` bracket, then run `dmd -unittest source.d` which runs the test. Also an annoyance was that when the test is finished, the program's main starts running. I felt like go did a better job with it's test suite. 
+
+## Swift
+Me and swift have been in an on and off relationship for some time. I love the language in the beginning, I then write an app, the app becomes more complicated than I thought, then I give up the language. This time I decided to finally finish my first app.
+
+The best part about swift, for me, is the syntax along with the bundled repl that makes development almost script-like. The language is very consistent and easy on the eyes.
+
+The worst part about swift is how many changes the language undergoes. If I'm stuck on a problem, I would research the solution only to find out that the solution is outdated. This was frustrating to me, but not a game breaker because usually the documentation was more than enough. 
+
