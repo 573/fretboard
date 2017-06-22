@@ -13,6 +13,7 @@ MacOS 10.12.5
 * **D** - DMD version 2.074.1
 * **go** - go version 1.8.3
 * **haskell** - ghc version 8.0.2
+* **swift** - swift version 3.1
 
 ## Commands
   * **fret** = display entire fretboard
