@@ -46,9 +46,10 @@ fretboard arg = do
 -- control
 dispatch command arguments =
   case command of
-    "scale" -> fretboard arguments
-    "fret"  -> fretboard discourse
-    "exit"  -> exitWith ExitSuccess
+    "scale"   -> fretboard arguments
+    "fret"    -> fretboard discourse
+    "exit"    -> exitWith ExitSuccess
+    otherwise -> return ()
 menu = do
   putStr "> "
   input <- getLine
