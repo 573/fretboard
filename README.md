@@ -9,7 +9,7 @@ To learn how to create and test a program in a wide variety of languages. A [rep
 ## Environment
 MacOS 10.12.5
 
-## Lanauges  
+## Languages  
 * **D** - DMD version 2.074.1
 * **go** - go version 1.8.3
 * **haskell** - ghc version 8.0.2
